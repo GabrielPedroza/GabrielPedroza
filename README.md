@@ -1,4 +1,4 @@
-Hey 👋, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
+Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
 ----------------------------------------------------------------------------------
 
 I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade College](https://www.mdc.edu/)** and soon to be at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami, Florida (duhhh). I adore creating idiosyncratic experiences for users when I have a chance to work on my side projects. When I'm not coding, I binge watch YouTube videos, listen to Spotify, and play video games.
