@@ -8,20 +8,21 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬
 
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
-<details text-align="right"><summary>🔎 Click here only if you're curious 🔍</summary><br/>
+<details><summary>🔎 Click here only if you're curious 🔍</summary><br/>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵️</li>
     <br/>
-    <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b>and a bit of <b>DSA</b> 🥵</li>
+    <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b> and a bit of <b>DSA</b> 🥵</li>
     <br/>
     <li>📝 I sometimes write stuff on <a href="https://dev.to/gabrielpedroza">my blog</a> 📕</li>
     <br/>
     <li>👨🏻‍💻 The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨‍🎓</li>
       <br/>
-    <li>🙊 I am an absolute sucker for laptop stickers 🌃</li>
+    <li>🙊 I am an <b>absolute</b> sucker for laptop stickers 🌃</li>
     <br/>
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
-    <li>This README.md was completely and utterly <img height="20pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
+    <br/>
+    <li>This README.md was architecturally and undisputedly <img height="20pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
   </ul>
 </details>
 
