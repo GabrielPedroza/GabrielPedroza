@@ -2,12 +2,13 @@ Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/w
 ----------------------------------------------------------------------------------
 
 I'm currently a Creative Frontend Engineer majoring in Computer Science at **[Miami Dade College](https://www.mdc.edu/)** and soon to be at **[Florida 
+International University](https://www.fiu.edu/)**
 
-International University](https://www.fiu.edu/)** that's based in 🏝 Miami, Florida (duhhh). I ❤️ creating idiosyncratic experiences for users when I have a 
+that's based in 🏝 Miami, Florida (duhhh). I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects.
 
-chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the fruits of my labor come to life. When I feel like going 
+I find my **joy** and **passion** when I presevere and see the fruits of my labor come to life. When I feel like going above and beyond
 
-above and beyond on x project, I particularly enjoy **3D modeling**, having my **UI/UX** touch and implementing it respectively. When I take a break, I 
+on x project, I particularly enjoy **3D modeling**, having my **UI/UX** touch and implementing it respectively. When I take a break, I 
 
 binge watch YouTube videos, listen to Spotify, and play video games.
 
