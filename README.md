@@ -8,7 +8,7 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬
 
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
 <details><summary>🔎 Click only if you're curious 🔍</summary>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵️</li>
