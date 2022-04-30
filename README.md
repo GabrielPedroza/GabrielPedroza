@@ -7,14 +7,12 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 
 🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬
 
-<img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" /><details><summary>Fun Facts about me!!</summary><li>1</li><li>2</li><li>3</li></details>
+<img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" /><details><summary>Fun Facts about me!!</summary><ul>
+<li>🔭 I’m currently working on [e-commerce](https://github.com/GabrielPedroza/e-commerce).</li>
+<li>🧐 Learning about **TypeScript**, **Nextjs**, and a bit of **DSA**.</li>
+<li>📝 I sometimes write stuff on [my blog](https://dev.to/gabrielpedroza).</li>
+<li>👨🏻‍💻The current classes I'm taking for _Summer 2022_ are: **Java programming**, **Intro to Philosophy**, **Intro Chemistry** and **Hist US Since 1877**.</li>
+<li>🕹I currently enjoying playing **Dead by Daylight** on PS4 while watching **Barely Sociable** and **Coffeezilla** on YouTube at night 🌙</li></ul></details>
 ![Gabriels Stats](https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true)![Gabriels Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact)
 
 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝
---------------------
-
-*   🔭 I’m currently working on [e-commerce](https://github.com/GabrielPedroza/e-commerce).
-*   🧐 Learning about **TypeScript**, **Nextjs**, and a bit of **DSA**.
-*   📝 I sometimes write stuff on [my blog](https://dev.to/gabrielpedroza).
-*   👨🏻‍💻The current classes I'm taking for _Summer 2022_ are: **Java programming**, **Intro to Philosophy**, **Intro Chemistry** and **Hist US Since 1877**.
-*   🕹I currently enjoying playing **Dead by Daylight** on PS4 while watching **Barely Sociable** and **Coffeezilla** on YouTube at night 🌙
