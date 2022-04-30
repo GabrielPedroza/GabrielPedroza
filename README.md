@@ -5,7 +5,7 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@gabrielpedroza-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/gabrielpedroza/)](https://www.linkedin.com/in/gabrielpedroza/) [![DevTo Badge](https://img.shields.io/badge/-@gabrielpedroza-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/gabrielpedroza)](https://dev.to/gabrielpedroza) [![Spotify Badge](https://img.shields.io/badge/-@gabrielpedroza-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/31zfd5mi3py2sxojccclfo764bqq)](https://open.spotify.com/user/31zfd5mi3py2sxojccclfo764bqq)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logo=gmail&logoColor=white)](mailto:theegabrielpedroza@gmail.com)[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logo=discord&logoColor=white)](https://discordapp.com/users/969429853793300490)
 
-🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬 < img height="75px" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg" />
+🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬 <img height="75px" src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg" />
 
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
 <details><summary>🔎 Click here only if you're curious 🔍</summary><br/>
