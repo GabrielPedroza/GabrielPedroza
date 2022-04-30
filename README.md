@@ -16,12 +16,12 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
     <br/>
     <li>📝 I sometimes write stuff on <a href="https://dev.to/gabrielpedroza">my blog</a> 📕</li>
     <br/>
-    <li>👨 🏻‍💻The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨‍🎓</li>
+    <li>👨🏻‍💻 The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨‍🎓</li>
       <br/>
     <li>🙊 I am an absolute sucker for laptop stickers 🌃</li>
     <br/>
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
-    <li>This README.md was completely and utterly <img transform="translateY(-10pt)" height="26pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
+    <li>This README.md was completely and utterly <img margin-top="10pt" height="26pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
   </ul>
 </details>
 
