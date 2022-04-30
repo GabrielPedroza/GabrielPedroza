@@ -7,7 +7,8 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 
 🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬
 
-![](https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif)![Gabriels Stats](https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true)![Gabriels Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact)
+<img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" /><details><summary>Fun Facts about me!!</summary><li>1</li><li>2</li><li>3</li></details>
+![Gabriels Stats](https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true)![Gabriels Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact)
 
 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝
 --------------------
