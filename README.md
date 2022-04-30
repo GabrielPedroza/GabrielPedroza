@@ -22,10 +22,10 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
     <br/>
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
     <br/>
-    <li>This README.md was architecturally and undisputedly <img position="relative" down="50px" height="20pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
+    <li>This README.md was architecturally and undisputedly <img height="16pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
   </ul>
 </details>
 
-<!-- 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝 -->
+😋 <img width="500px" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />🍝
 <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
 <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
