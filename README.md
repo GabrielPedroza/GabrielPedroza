@@ -8,7 +8,7 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬
 
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
-<details><summary>🔎 Click here only if you're curious 🔍</summary><br/>
+<details text-align="right"><summary>🔎 Click here only if you're curious 🔍</summary><br/>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵️</li>
     <br/>
@@ -21,7 +21,7 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
     <li>🙊 I am an absolute sucker for laptop stickers 🌃</li>
     <br/>
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
-    <li>This README.md was completely and utterly <img margin-top="10pt" height="26pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
+    <li>This README.md was completely and utterly <img height="20pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
   </ul>
 </details>
 
