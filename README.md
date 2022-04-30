@@ -8,7 +8,6 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 🐶 “Dogs teach us a very important lesson in life: The mail man is not to be trusted.” 📬
 
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
 <details><summary>🔎 Click only if you're curious 🔍</summary>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵️</li>
@@ -19,6 +18,7 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
   </ul>
 </details>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
 
 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝
+<img align="left" width="250px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
+<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
