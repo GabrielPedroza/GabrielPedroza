@@ -11,14 +11,22 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 <details><summary>🔎 Click only if you're curious 🔍</summary>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵️</li>
+    <br/>
     <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b>and a bit of <b>DSA</b> 🥵</li>
+    <br/>
     <li>📝 I sometimes write stuff on <a href="https://dev.to/gabrielpedroza">my blog</a> 📕</li>
+    <br/>
     <li>👨 🏻‍💻The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨‍🎓</li>
+      <br/>
     <li>🙊 I am an absolute sucker for laptop stickers 🌃</li>
+    <br/>
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
   </ul>
 </details>
 
+❤️‍🔥 Stats About Muah 👀
+----------------------------------------------------------------------------------
+
 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝
-<img align="left" width="500px" height="375px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
-<img align="right" width="500px" height="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
+<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
+<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
