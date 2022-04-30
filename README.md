@@ -20,5 +20,5 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
 </details>
 
 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝
-<img align="left" width="750px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
-<img align="right" width="750px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
+<img align="left" width="500px" height="375px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
+<img align="right" width="500px" height="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
