@@ -1,4 +1,4 @@
-Hey <img text-align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
+Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
 ----------------------------------------------------------------------------------
 
 I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade College](https://www.mdc.edu/)** and soon to be at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami, Florida (duhhh). I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. When I'm not coding, I binge watch YouTube videos, listen to Spotify, and play video games.
@@ -24,9 +24,9 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
   </ul>
 </details>
 
-<h3 text-align="center">❤️‍🔥 Stats About Muah 👀</h3>
+❤️‍🔥 Stats About Muah 👀
 ----------------------------------------------------------------------------------
 
 <!-- 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝 -->
 <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
-<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
+<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
