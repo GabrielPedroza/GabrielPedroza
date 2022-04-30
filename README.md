@@ -21,7 +21,7 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
     <li>🙊 I am an absolute sucker for laptop stickers 🌃</li>
     <br/>
     <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
-    <li>This README.md was completely and utterly <img height="26pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
+    <li>This README.md was completely and utterly <img transform="translateY(-10pt)" height="26pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
   </ul>
 </details>
 
