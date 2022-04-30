@@ -24,9 +24,6 @@ I'm currently a Creative Frontend Engineer majoring in Comp Sci at **[Miami Dade
   </ul>
 </details>
 
-❤️‍🔥 Stats About Muah 👀
-----------------------------------------------------------------------------------
-
 <!-- 😋 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) 🍝 -->
 <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
 <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
