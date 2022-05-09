@@ -18,7 +18,7 @@ binge watch YouTube videos, listen to Spotify, and play video games.
     <br/>
     <li>📝 I sometimes write stuff on <a href="https://dev.to/gabrielpedroza">my blog</a> 📕</li>
     <br/>
-    <li>👨🏻‍💻 The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨‍🎓</li>
+    <li>👨🏻‍💻 The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨🏻‍🎓</li>
       <br/>
     <li>🙊 I am an <b>absolute</b> sucker for laptop stickers 🌃</li>
     <br/>
