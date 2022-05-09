@@ -12,7 +12,7 @@ binge watch YouTube videos, listen to Spotify, and play video games.
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
 <details><summary>🔎 Click here only if you're curious 🔍</summary><br/>
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵️</li>
+    <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵🏻</li>
     <br/>
     <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b> and a bit of <b>DSA</b> 🥵</li>
     <br/>
