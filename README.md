@@ -10,7 +10,7 @@ binge watch YouTube videos, listen to Spotify and play video games.
 🐶 “Dogs teach us a very important lesson in life: The mail man is **not** to be trusted.” 📬
 
 <img align="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" />
-<details><summary>🔎 Click here only if you're curious 🔍</summary><br/>
+<details align="right"><summary>🔎 Click here only if you're curious 🔍</summary><br/>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵🏻</li>
     <br/>
