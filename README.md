@@ -9,7 +9,7 @@ binge watch YouTube videos, listen to Spotify and play video games.
 <hr>
 <p>🐶 “Dogs teach us a very important lesson in life: The mail man is <b>not</b> to be trusted.” 📬</p>
 <img src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" align="left" float="left"/>
-<details>
+<details align="right" float="right">
   <summary>🔎 Click here only if you're curious 🔍</summary>
   <br/>
   <ul>
