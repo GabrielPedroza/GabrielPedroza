@@ -8,7 +8,7 @@ binge watch YouTube videos, listen to Spotify and play video games.
 [![LinkedIn Badge](https://img.shields.io/badge/-@gabrielpedroza-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/gabrielpedroza/)](https://www.linkedin.com/in/gabrielpedroza/) [![DevTo Badge](https://img.shields.io/badge/-@gabrielpedroza-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/gabrielpedroza)](https://dev.to/gabrielpedroza) [![Spotify Badge](https://img.shields.io/badge/-@gabe-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/31zfd5mi3py2sxojccclfo764bqq)](https://open.spotify.com/user/31zfd5mi3py2sxojccclfo764bqq)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logo=gmail&logoColor=white)](mailto:theegabrielpedroza@gmail.com)[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logo=discord&logoColor=white)](https://discordapp.com/users/969429853793300490)
 <hr>
 <p>🐶 “Dogs teach us a very important lesson in life: The mail man is <b>not</b> to be trusted.” 📬</p>
-<img src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" align="left" >
+<img src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" align="left" />
 <details>
   <summary>🔎 Click here only if you're curious 🔍</summary>
   <br/>
@@ -30,5 +30,5 @@ binge watch YouTube videos, listen to Spotify and play video games.
 </details>
 
 <img width="500px" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
-    <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
-    <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
+    <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
+    <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
