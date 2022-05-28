@@ -30,7 +30,7 @@ binge watch YouTube videos, listen to Spotify and play video games.
 </details>
 
 <img width="500px" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
-<div display="flex" justify-content="space-around">
+<div display="flex" justify-content="space-around" margin="0 auto">
     <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
     <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
  </div>
