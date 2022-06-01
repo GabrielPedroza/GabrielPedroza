@@ -1,4 +1,4 @@
-Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
+Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
 ----------------------------------------------------------------------------------
 
 I'm currently a Creative Frontend Engineer majoring in Computer Science at **[Miami Dade College](https://www.mdc.edu/)** and soon to be at **[Florida 
