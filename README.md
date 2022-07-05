@@ -22,7 +22,7 @@ binge watch YouTube videos, listen to Spotify and play video games.
       <br/>
     <li>🙊 I am an <b>absolute</b> sucker for laptop stickers 🌃</li>
     <br/>
-    <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>Barely Sociable</b> and <b>Coffeezilla</b> on YouTube at night 🌙</li>
+    <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>YouTube Shorts</b> and <b>Nexpo</b> on YouTube at night 🌙</li>
     <br/>
     <li>This README.md was architecturally and undisputedly <img height="16pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
   </ul>
