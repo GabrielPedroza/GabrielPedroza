@@ -12,7 +12,7 @@ binge watch YouTube videos, listen to music on Spotify and play video games.
   <summary>🔎 Click here only if you're curious 🔍</summary>
   <br/>
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/GabrielPedroza/e-commerce">e-commerce</a>. Check it out 🕵🏻</li>
+    <li>🔭 I’m currently working on DSA's and building my startup company Quiet Rain 🌧</li>
     <br/>
     <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b> and a bit of <b>DSA</b> 🥵</li>
     <br/>
