@@ -1,7 +1,7 @@
 Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
 ----------------------------------------------------------------------------------
 
-I'm currently a Creative Frontend Engineer majoring in Computer Science at **[Miami Dade College](https://www.mdc.edu/)** and soon to be at **[Florida 
+I'm currently a Creative Software Engineer majoring in Computer Science at **[Miami Dade College](https://www.mdc.edu/)** and soon to be at **[Florida 
 International University](https://www.fiu.edu/)** that's based in 🏝 Miami, Florida (duhhh). I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the art come to life. When I feel like going above and beyond on x project, I particularly enjoy **3D modeling**, having my **UI/UX** touch and implementing it respectively if it makes sense to. When I take a break, I 
 binge watch YouTube videos, listen to music on Spotify and play video games.
 
@@ -12,7 +12,7 @@ binge watch YouTube videos, listen to music on Spotify and play video games.
   <summary>🔎 Click here only if you're curious 🔍</summary>
   <br/>
   <ul>
-    <li>🔭 I’m currently working on DSA's and building my startup company Quiet Rain 🌧</li>
+    <li>🔭 I’m currently working on DSA's and building my startup company <a href='https://quietrain.co'>Quiet Rain🌧</a></li>
     <br/>
     <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b> and a bit of <b>DSA</b> 🥵</li>
     <br/>
