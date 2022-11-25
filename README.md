@@ -46,7 +46,7 @@ I'm currently a **Creative Software Engineer** majoring in Computer Science at *
 
 <h3 align="center">📈 My GitHub Stats 📈</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielPedroza&show_icons=true&theme=dracula " alt="GabrielPedroza🥸" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielPedroza&show_icons=true&theme=dracula" alt="GabrielPedroza🥸" />
 
 
 
