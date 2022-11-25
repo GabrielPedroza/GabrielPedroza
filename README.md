@@ -1,33 +1,57 @@
-Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm [Gabriel Pedroza 🙇🏻‍♂️](https://youtu.be/xvFZjo5PgG0)
-----------------------------------------------------------------------------------
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm [Gabe](https://youtu.be/xvFZjo5PgG0)</h1>
 
-I'm currently a Creative Software Engineer majoring in Computer Science at **[Florida 
-International University](https://www.fiu.edu/)** that's based in 🏝 Miami. I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the art come to life. When I feel like going above and beyond on x project, I particularly enjoy **3D modeling**, having my **UI/UX** touch and implementing it respectively if it makes sense to. I'm currently learning **Fullstack**! When I take a break, I 
-binge watch YouTube videos, listen to music on Spotify and play video games.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@gabrielpedroza-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/gabrielpedroza/)](https://www.linkedin.com/in/gabrielpedroza/) [![DevTo Badge](https://img.shields.io/badge/-@gabrielpedroza-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&link=https://dev.to/gabrielpedroza)](https://dev.to/gabrielpedroza) [![Spotify Badge](https://img.shields.io/badge/-@gabe-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/31zfd5mi3py2sxojccclfo764bqq)](https://open.spotify.com/user/31zfd5mi3py2sxojccclfo764bqq)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logo=gmail&logoColor=white)](mailto:theegabrielpedroza@gmail.com)[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logo=discord&logoColor=white)](https://discordapp.com/users/969429853793300490)
+<br />
+
+I'm currently a **Creative Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the art come to life. When I feel like going above and beyond on a project, I particularly enjoy **3D modeling**, having my **UI/UX** touch and implementing it respectively if it makes sense to. I'm currently learning **Fullstack** and planning to create a **startup soon!** When I take a break, I binge watch YouTube videos/Netflix shows, play chess, and learn about space/physics.
+
+<br>
+
+
+<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
+
+<img align="center" width="650px" alt="GIF" src="https://thumbs.gfycat.com/ClosedInsidiousHornbill-size_restricted.gif" />
+
+
+**Languages and Tools:**
+<br>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+---
+### 🥸 My current focuses
+
+* Involved with **Upsilon Pi Epsilon** @ FIU to become the best version of myself ❤️
+* Learning **tRPC** and the **T3 Stack** to learn fullstack & build my startup 🤩
+* Working on homework/studying for exams 🤓
+* Selling my soul on **Leetcode** 🫣
+
 <hr>
-<p>🐶 “Dogs teach us a very important lesson in life: The mail man is <b>not</b> to be trusted.” 📬</p>
-<img float="left" src="https://c.tenor.com/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif" alt="" /><details>
-  <summary>🔎 Click here only if you're curious 🔍</summary>
-  <br/>
-  <ul>
-    <li>🔭 I’m currently working on DSA's and building my startup company <a href='https://quietrain.co'>Quiet Rain🌧</a></li>
-    <br/>
-    <li>🧐 Learning about <b>TypeScript</b>, <b>Nextjs</b>, <b>Intricacies of Frontend</b> and a bit of <b>DSA</b> 🥵</li>
-    <br/>
-    <li>📝 I sometimes write stuff on <a href="https://dev.to/gabrielpedroza">my blog</a> 📕</li>
-    <br/>
-    <li>👨🏻‍💻 The current classes I'm taking for <i>Summer 2022</i> are: <b>Java programming<b/>, <b>Intro to Philosophy</b>, <b>Intro Chemistry</b> and <b>Hist US Since 1877</b> 👨🏻‍🎓</li>
-      <br/>
-    <li>🙊 I am an <b>absolute</b> sucker for laptop stickers 🌃</li>
-    <br/>
-    <li>🕹 I currently enjoying playing <b>Dead by Daylight</b> on PS4 while watching <b>YouTube Shorts</b> and <b>Nexpo</b> on YouTube at night 🌙</li>
-    <br/>
-    <li>This README.md was architecturally and undisputedly <img height="16pt" src="https://forthebadge.com/images/badges/built-with-love.svg" /></li>
-  </ul>
-</details>
 
-<img width="500px" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielpedroza&theme=tokyonight&show_icons=true&count_private=true" />
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroza&theme=tokyonight&layout=compact" />
+
+<h3 align="center">📈 My GitHub Stats 📈</h3>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielPedroza&show_icons=true&theme=dracula " alt="GabrielPedroza🥸" />
+
+
+
+</br>
+
+
+<p align="center">🐶 “Dogs teach us a very important lesson in life: The mail man is <b>not</b> to be trusted.” 📬</p>
+</div>
