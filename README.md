@@ -11,7 +11,7 @@ I'm currently a **Creative Software Engineer** majoring in Computer Science at *
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="center" width="650px" alt="GIF" src="https://thumbs.gfycat.com/ClosedInsidiousHornbill-size_restricted.gif" />
+<img align="center" width="1150px" alt="GIF" src="https://thumbs.gfycat.com/ClosedInsidiousHornbill-size_restricted.gif" />
 
 
 **Languages and Tools:**
