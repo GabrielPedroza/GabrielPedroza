@@ -48,6 +48,8 @@ I'm currently a **Creative Software Engineer** majoring in Computer Science at *
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielPedroza&show_icons=true&theme=dracula" alt="GabrielPedroza🥸" />
 
+<br />
+
 <img width="500px" align="center" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
 
 </br>
