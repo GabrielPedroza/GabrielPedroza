@@ -3,7 +3,7 @@
 
 <br />
 
-I'm currently a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the art come to life. When I feel like going above and beyond on a project, I particularly enjoy **3D modeling**, having my **UI/UX** touch and implementing it respectively if it makes sense to. I'm currently learning **Fullstack** and planning to create a **startup soon!** When I take a break, I binge watch YouTube videos/Netflix shows, play chess, and learn about space/physics.
+I'm currently a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the art come to life. When I feel like going above and beyond on a project, I particularly enjoy **researching**, having my **UI/UX** touch, and implementing it respectively if it makes sense to. I'm also planning to create a **startup soon!** When I take a break, I binge watch YouTube videos/Netflix shows, play chess, and learn about space/physics.
 
 <br>
 
