@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I relish the opportunity to impart my knowledge and offer guidance to those who aspire to delve deeper into the realm of Computer Science and/or aim to become a proficient Software Engineer. I'm currently a Technical Lead (Web Development) at INIT, a **non-profit organization** that empowers over 7660+ minority members land internships and full-time opportunities in tech. **Startup 👀** 
+I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I relish the opportunity to impart my knowledge and offer guidance to those who aspire to delve deeper into the realm of Computer Science and/or aim to become a proficient Software Engineer. I'm currently a Technical Lead (Web Development) and Executive Board at INIT, a **non-profit organization** that empowers over 7660+ minority members land internships and full-time opportunities in tech. Feel free to reach out to me at (786) 328-3643 for any assistance or opportunities. Happy hacking!
 <br>
 
 
@@ -36,8 +36,8 @@ I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida
 ---
 ### 🥸 My current focuses
 
-* Involved with **Upsilon Pi Epsilon** @ FIU to become the best version of myself ❤️
-* Learning **tRPC** and the **T3 Stack** to learn fullstack & build my startup 🤩
+* Involved with **INIT** @ FIU to make an impact ❤️
+* Deepening my knowledge in FullStack Software Engineering 🤩
 * Working on homework/studying for exams 🤓
 * Selling my soul on **Leetcode** 🫣
 
