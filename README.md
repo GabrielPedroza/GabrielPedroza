@@ -3,8 +3,7 @@
 
 <br />
 
-I'm currently a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I ❤️ creating idiosyncratic experiences for users when I have a chance to work on my side projects. I find my **joy** and **passion** when I presevere and see the art come to life. When I feel like going above and beyond on a project, I particularly enjoy **researching**, having my **UI/UX** touch, and implementing it respectively if it makes sense to. I'm also planning to create a **startup soon!** When I take a break, I binge watch YouTube videos/Netflix shows, play chess, and learn about space/physics.
-
+I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I relish the opportunity to impart my knowledge and offer guidance to those who aspire to delve deeper into the realm of Computer Science and/or aim to become a proficient Software Engineer. I'm currently a Technical Lead (Web Development) at INIT, a **non-profit organization** that empowers over 7660+ minority members land internships and full-time opportunities in tech. **Startup 👀** 
 <br>
 
 
