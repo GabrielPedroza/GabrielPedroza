@@ -38,7 +38,7 @@ I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida
 
 * Involved with **INIT** @ FIU to make an impact ❤️
 * Deepening my knowledge in FullStack Software Engineering 🤩
-* Working on homework/studying for exams 🤓
+* Currently learning about infrastructure 🤓
 * Selling my soul on **Leetcode** 🫣
 
 <hr>
