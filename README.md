@@ -1,4 +1,4 @@
-# Hey, I'm [Gabe](https://youtu.be/xvFZjo5PgG0) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" style="vertical-align: middle;" alt="Sunglasses Emoji">
+# Hey, I'm [Gabe](https://youtu.be/xvFZjo5PgG0) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle;" alt="Sunglasses Emoji">
 
 
 
