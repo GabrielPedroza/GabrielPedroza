@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm <a href="https://youtu.be/xvFZjo5PgG0">Gabe<a/></h1> 
+# Hey, I'm [Gabe](https://youtu.be/xvFZjo5PgG0) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" style="vertical-align: middle;" alt="Sunglasses Emoji">
+
+
+
 
 <br />
 
