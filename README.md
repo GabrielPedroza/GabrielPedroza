@@ -43,7 +43,6 @@ I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida
 * Writing [System Architecture in a Pinch](https://www.notion.so/System-Architecture-in-a-Pinch-554626aa03fa4c8c90a0747b7f5e3ff1). Take a peek!
 * Deepening my knowledge in FullStack Software Engineering
 * Currently learning about Systems Engineering, Lower Level Concepts, Compilers, and Programming Languages
-* Attempting to maintain my **Leetcode** and **System Design** abilities
 
 <hr>
 
