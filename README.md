@@ -42,7 +42,7 @@ I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida
 * Involved with **INIT** @ FIU to make an impact ❤️
 * Writing [System Architecture in a Pinch](https://www.notion.so/System-Architecture-in-a-Pinch-554626aa03fa4c8c90a0747b7f5e3ff1). Take a peek!
 * Deepening my knowledge in FullStack Software Engineering
-* Currently learning about Systems Engineering, Lower Level Concepts, Compilers, and Programming Languages
+* Currently learning about Systems Engineering and Distributed Systems
 
 <hr>
 
