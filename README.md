@@ -5,7 +5,7 @@
 
 <br />
 
-I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I relish the opportunity to impart my knowledge and offer guidance to those who aspire to delve deeper into the realm of Computer Science and/or aim to become a proficient Software Engineer. I'm currently Director of Technology and Executive Board at INIT, a **non-profit organization** that empowers over 7660+ minority members land internships and full-time opportunities in tech. Startup? Happy hacking! ❤️🤙🏻
+I'm a **Fullstack Software Engineer** majoring in Computer Science at **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I relish the opportunity to impart my knowledge and offer guidance to those who aspire to delve deeper into the realm of Computer Science and/or aim to become a proficient Software Engineer. I'm currently the Director of Technology and Executive Board at INIT, a **non-profit organization** that empowers over 7660+ minority members land internships and full-time opportunities in tech. Startup? Happy hacking! ❤️🤙🏻
 <br>
 
 
