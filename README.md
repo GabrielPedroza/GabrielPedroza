@@ -1,48 +1,17 @@
 # Hey, I'm [Gabe](https://youtu.be/xvFZjo5PgG0) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle;" alt="Sunglasses Emoji">
 
-
-
-
 <br />
 
 I'm a **Software Engineer** graduate in Computer Science from **[Florida International University](https://www.fiu.edu/)** based in 🏝 Miami. I had the opportunity to impart my knowledge and offer guidance to those who aspire to delve deeper into the realm of Computer Science and/or aim to become a proficient Software Engineer. I was the Director of Technology and Executive Board at INIT, a **non-profit organization** that empowers over 7660+ minority members land internships and full-time opportunities in tech. Happy hacking! ❤️🤙🏻
 <br>
-
-
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-
-<!-- <img align="center" width="9999px" alt="GIF" src="https://thumbs.gfycat.com/ClosedInsidiousHornbill-size_restricted.gif" /> -->
-
-
-**Languages and Tools:**
-<br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 
 ---
 ### 🥸 My current focuses
 
 * Involved with **INIT** @ FIU to make an impact ❤️
 * Finished [System Architecture in a Pinch](https://www.notion.so/System-Architecture-in-a-Pinch-554626aa03fa4c8c90a0747b7f5e3ff1). Take a peek!
-* Deepening my knowledge in FullStack Software Engineering
-* Currently learning about Systems Engineering and Distributed Systems
+* Occasionally deepening my knowledge in FullStack Software Engineering
+* Getting into Systems Engineering and Distributed Systems (Currently interested in DB's, Compilers, and CPP)
 
 <hr>
 
