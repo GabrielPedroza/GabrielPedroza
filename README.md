@@ -11,7 +11,7 @@ I'm a **Software Engineer** graduate in Computer Science from **[Florida Interna
 * Involved with **INIT** @ FIU to make an impact ❤️
 * Finished [System Architecture in a Pinch](https://www.notion.so/System-Architecture-in-a-Pinch-554626aa03fa4c8c90a0747b7f5e3ff1). Take a peek!
 * Occasionally deepening my knowledge in FullStack Software Engineering
-* Getting into Systems Engineering and Distributed Systems (Currently interested in DB's, Compilers, and CPP)
+* Getting into Compilers
 
 <hr>
 
