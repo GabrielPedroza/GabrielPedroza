@@ -14,18 +14,3 @@ I'm a **Software Engineer** graduate in Computer Science from **[Florida Interna
 * Getting into Compilers
 
 <hr>
-
-
-<h3 align="center">📈 My GitHub Stats 📈</h3>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GabrielPedroza&show_icons=true&theme=dracula" alt="GabrielPedroza🥸" />
-
-<br />
-
-<img width="500px" align="center" src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
-
-</br>
-
-
-<p align="center">🐶 “Dogs teach us a very important lesson in life: The mail man is <b>not</b> to be trusted.” 📬</p>
-</div>
